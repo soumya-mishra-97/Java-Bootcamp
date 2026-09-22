@@ -4,4 +4,4 @@
 - Packages
 - Frontend integration
 - Backend integration (Imp)
-- Interviews
+- Interview preparations
